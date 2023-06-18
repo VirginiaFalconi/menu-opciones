@@ -40,5 +40,4 @@ while True:
         print("Gracias por usar nuestra base de datos")
         break
  
-    else:
-        print("Seleccione una opcion valida")
+    
