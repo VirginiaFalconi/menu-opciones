@@ -24,10 +24,10 @@ while True:
     opcion = input("Ingrese la opción deseada: ")
 
     if opcion == "1":
-        print("Ingrese un nuevo registro")
+        print("Mostrar registros")
 
     elif opcion == "2":
-        print("Mostrar registro")
+        print("Ingresar un registro nuevo")
        
 
     elif opcion == "3":
